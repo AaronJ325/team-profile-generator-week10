@@ -1,0 +1,1 @@
+This week's task was create a webpage that generates a team of workers and a summary of what each person does along with thier contact information.
